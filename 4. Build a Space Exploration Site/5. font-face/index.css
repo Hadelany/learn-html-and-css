@@ -1,8 +1,9 @@
 @font-face {
-    src: url("Corleone.ttf");
-    font-family: Corleone;
+    src: url(MANDISA-BoldItalic.otf);
+    font-family: Mandissa;
 }
 
 h1 {
-    
+    text-align: center;
+    font-family: Mandissa;
 }
