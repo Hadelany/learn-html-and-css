@@ -1,13 +1,16 @@
-div {
+.main {
     margin-top: 100px;
 }
 
-img {
+/* Challenge - part 2:
+Replace the element selectors with class selectors
+*/
+.logo-png {
     display: block;
     width: 300px;
 }
 
-input {
+.search-input {
     display: block;
     width: 400px;
 }
